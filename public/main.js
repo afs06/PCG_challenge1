@@ -46,7 +46,7 @@ function DeleteImage(wrapperElement){
     try {
         wrapperElement.remove()
     } catch (error) {
-        window.alert("Failed to delete")
+        console.log("Failed to delete")
     }
 }
 

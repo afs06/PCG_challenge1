@@ -22,11 +22,11 @@ This is Challenge 1: Web App with Image-Upload for PCG
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/afs06/PCG_challenge1.git
+   cd PCG_challenge1
 2. **Install dependencies**
    ```bash
-   npm install 
+   npm install express
 4. **Run the server**
    ```bash
    node server.js

@@ -2,7 +2,7 @@
 This is Challenge 1: Web App with Image-Upload for PCG
 
 ## Initialise Project
-npm init -y
+npm init -y <br>
 npm install express
 
 ## Starting the project

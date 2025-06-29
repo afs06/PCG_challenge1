@@ -1,7 +1,7 @@
 {
   "name": "challenge_1_v3",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is Challenge 1: Web App with Image-Upload for PCG",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,5 +13,13 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afs06/PCG_challenge1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/afs06/PCG_challenge1/issues"
+  },
+  "homepage": "https://github.com/afs06/PCG_challenge1#readme"
 }

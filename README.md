@@ -7,7 +7,7 @@ This is Challenge 1: Web App with Image-Upload for PCG
 
 ---
 
-> 🚀 A public URL will be provided after deployment on a hosting platform such as [Render](https://render.com) https://pcg-challenge1-ik58.onrender.com/ 
+> 🚀 A public URL is be provided after deployment on a hosting platform such as [Render](https://render.com): [HERE](https://pcg-challenge1-ik58.onrender.com/ )
 
 ---
 ## ✨ Features
